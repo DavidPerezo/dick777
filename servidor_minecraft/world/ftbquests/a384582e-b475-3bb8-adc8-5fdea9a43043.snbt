@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "a384582eb4753bb8adc85fdea9a43043"
+	name: "DavidPerezo#a384582e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

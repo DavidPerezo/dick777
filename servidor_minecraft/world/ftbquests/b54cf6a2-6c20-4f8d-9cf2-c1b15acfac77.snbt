@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b54cf6a26c204f8d9cf2c1b15acfac77"
+	name: "CHIMICHURRIS#b54cf6a2"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
