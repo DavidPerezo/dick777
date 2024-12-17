@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "84e8fd19c7483421b60fc10d1d51fd3b"
+	name: "PriscilaCuak#84e8fd19"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

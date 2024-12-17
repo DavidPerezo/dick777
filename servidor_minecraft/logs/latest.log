@@ -1409,3 +1409,87 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [17Dec2024 05:17:49.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set isageta777's game mode to Adventure Mode]
 [17Dec2024 05:17:57.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has made the advancement [Sweet Dreams]
 [17Dec2024 05:18:13.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Gamerule playersSleepingPercentage is now set to: 1]
+[17Dec2024 05:18:54.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PriscilaCuak[/127.109.63.200:56933] logged in with entity id 1851 at (41.5, 82.0, -57.5)
+[17Dec2024 05:18:54.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PriscilaCuak joined the game
+[17Dec2024 05:18:55.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PriscilaCuak has made the advancement [Christmas]
+[17Dec2024 05:18:55.190] [Server thread/INFO] [Jade/]: Syncing config to PriscilaCuak (84e8fd19-c748-3421-b60f-c10d1d51fd3b)
+[17Dec2024 05:18:55.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PriscilaCuak has made the advancement [Discover Bolivia]
+[17Dec2024 05:18:57.027] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PriscilaCuak (17)
+[17Dec2024 05:18:57.027] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PriscilaCuak
+[17Dec2024 05:19:02.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set own game mode to Creative Mode]
+[17Dec2024 05:19:17.151] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[17Dec2024 05:19:38.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37418ms or 748 ticks behind
+[17Dec2024 05:19:38.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: isageta777 lost connection: Disconnected
+[17Dec2024 05:19:38.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 left the game
+[17Dec2024 05:19:38.798] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client isageta777
+[17Dec2024 05:19:38.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidPerezo lost connection: Disconnected
+[17Dec2024 05:19:38.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo left the game
+[17Dec2024 05:19:38.857] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DavidPerezo
+[17Dec2024 05:19:38.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PriscilaCuak lost connection: Disconnected
+[17Dec2024 05:19:38.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PriscilaCuak left the game
+[17Dec2024 05:19:38.946] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PriscilaCuak
+[17Dec2024 05:19:39.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set the world spawn point to -1711, 63, -1457 [0.0]]
+[17Dec2024 05:19:55.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidPerezo[/127.45.122.45:42915] logged in with entity id 2067 at (-1710.178919767908, 63.0, -1456.699999988079)
+[17Dec2024 05:19:56.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo joined the game
+[17Dec2024 05:19:56.157] [Server thread/INFO] [Jade/]: Syncing config to DavidPerezo (a384582e-b475-3bb8-adc8-5fdea9a43043)
+[17Dec2024 05:19:56.371] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidPerezo (17)
+[17Dec2024 05:19:56.372] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidPerezo
+[17Dec2024 05:20:28.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set the world spawn point to -1809, 79, -1322 [0.0]]
+[17Dec2024 05:20:30.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: isageta777[/127.207.143.55:34127] logged in with entity id 2539 at (-1709.575925698253, 63.0, -1456.2249191477515)
+[17Dec2024 05:20:30.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 joined the game
+[17Dec2024 05:20:30.250] [Server thread/INFO] [Jade/]: Syncing config to isageta777 (cac2bba5-1dea-366c-86fd-46ab127067db)
+[17Dec2024 05:20:30.603] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of isageta777 (17)
+[17Dec2024 05:20:30.603] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to isageta777
+[17Dec2024 05:20:37.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set spawn point to -1809, 79, -1322 [0.0] in minecraft:overworld for DavidPerezo]
+[17Dec2024 05:20:56.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set own game mode to Survival Mode]
+[17Dec2024 05:20:58.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PriscilaCuak[/127.109.63.200:58393] logged in with entity id 2814 at (41.5, 82.0, -57.5)
+[17Dec2024 05:20:58.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PriscilaCuak joined the game
+[17Dec2024 05:20:58.110] [Server thread/INFO] [Jade/]: Syncing config to PriscilaCuak (84e8fd19-c748-3421-b60f-c10d1d51fd3b)
+[17Dec2024 05:20:59.298] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PriscilaCuak (17)
+[17Dec2024 05:20:59.299] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PriscilaCuak
+[17Dec2024 05:21:00.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Teleported PriscilaCuak to DavidPerezo]
+[17Dec2024 05:21:12.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Teleported isageta777 to DavidPerezo]
+[17Dec2024 05:21:26.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PriscilaCuak has made the advancement [Cobweb Entanglement]
+[17Dec2024 05:21:57.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 was doomed to fall by DavidPerezo
+[17Dec2024 05:21:58.142] [Server thread/INFO] [tombstone/]: The player isageta777 has successfully been saved
+[17Dec2024 05:22:08.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 has reached the goal [Discreet Search]
+[17Dec2024 05:22:13.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 has made the advancement [Cobweb Entanglement]
+[17Dec2024 05:23:11.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has made the advancement [Knowledge of Death]
+[17Dec2024 05:23:11.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has reached the goal [Strong or Careful]
+[17Dec2024 05:23:11.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo was slain by isageta777
+[17Dec2024 05:23:11.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has made the advancement [Your First Grave]
+[17Dec2024 05:23:11.858] [Server thread/INFO] [tombstone/]: The player DavidPerezo has successfully been saved
+[17Dec2024 05:23:13.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has made the advancement [The Most Useful Key]
+[17Dec2024 05:23:39.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set isageta777's game mode to Survival Mode]
+[17Dec2024 05:23:58.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 has made the advancement [Isn't It Iron Pick]
+[17Dec2024 05:27:43.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[17Dec2024 05:27:43.796] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[17Dec2024 05:27:46.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Gamerule randomTickSpeed is now set to: 90]
+[17Dec2024 05:29:32.793] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1517, y=-2, z=-1023}
+[17Dec2024 05:29:32.794] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1518, y=-2, z=-1023}
+[17Dec2024 05:31:28.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1814, y=71, z=-1205} BlockPos{x=-1793, y=76, z=-1327}
+[17Dec2024 05:31:29.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1814, y=71, z=-1205} BlockPos{x=-1793, y=76, z=-1327}
+[17Dec2024 05:31:29.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1814, y=71, z=-1205} BlockPos{x=-1793, y=76, z=-1327}
+[17Dec2024 05:31:29.927] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1814, y=71, z=-1205} BlockPos{x=-1793, y=76, z=-1327}
+[17Dec2024 05:31:30.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1814, y=71, z=-1205} BlockPos{x=-1793, y=76, z=-1327}
+[17Dec2024 05:32:07.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Teleported DavidPerezo to PriscilaCuak]
+[17Dec2024 05:32:08.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 was slain by Cave Spider
+[17Dec2024 05:32:08.590] [Server thread/INFO] [tombstone/]: The player isageta777 has successfully been saved
+[17Dec2024 05:32:13.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has made the advancement [Suit Up]
+[17Dec2024 05:32:42.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 has made the advancement [Stone Age]
+[17Dec2024 05:33:48.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 has made the advancement [Barrel Booty]
+[17Dec2024 05:35:16.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PriscilaCuak has made the advancement ['X' Marks the Spot]
+[17Dec2024 05:35:50.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Teleported DavidPerezo to isageta777]
+[17Dec2024 05:36:16.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Teleported DavidPerezo to isageta777]
+[17Dec2024 05:36:21.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17Dec2024 05:36:56.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[17Dec2024 05:37:14.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3193ms or 63 ticks behind
+[17Dec2024 05:37:34.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5184ms or 103 ticks behind
+[17Dec2024 05:37:52.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3243ms or 64 ticks behind
+[17Dec2024 05:37:59.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Teleported DavidPerezo to PriscilaCuak]
+[17Dec2024 05:38:11.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[17Dec2024 05:38:33.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17Dec2024 05:38:53.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[17Dec2024 05:39:11.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2568ms or 51 ticks behind
+[17Dec2024 05:39:29.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3120ms or 62 ticks behind
+[17Dec2024 05:39:47.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
