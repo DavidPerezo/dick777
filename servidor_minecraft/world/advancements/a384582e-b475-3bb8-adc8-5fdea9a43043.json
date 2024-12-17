@@ -296,8 +296,10 @@
       "minecraft:deep_frozen_ocean": "2024-12-16 23:09:26 +0000",
       "minecraft:windswept_forest": "2024-12-16 22:52:07 +0000",
       "minecraft:ocean": "2024-12-13 02:49:06 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-17 05:39:09 +0000",
       "minecraft:windswept_savanna": "2024-11-26 03:46:43 +0000",
       "minecraft:warm_ocean": "2024-11-26 08:29:25 +0000",
+      "minecraft:flower_forest": "2024-12-17 05:45:49 +0000",
       "minecraft:windswept_gravelly_hills": "2024-12-16 23:36:07 +0000",
       "minecraft:savanna": "2024-11-26 08:29:09 +0000",
       "minecraft:plains": "2024-11-26 03:42:39 +0000"
@@ -510,8 +512,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-17 05:44:45 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-12-17 05:44:42 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_millennial_leaf": {
+    "criteria": {
+      "advancement_millennial_leaf_0": "2024-12-17 05:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-17 05:47:16 +0000",
       "bread": "2024-12-17 05:28:41 +0000"
     },
     "done": false

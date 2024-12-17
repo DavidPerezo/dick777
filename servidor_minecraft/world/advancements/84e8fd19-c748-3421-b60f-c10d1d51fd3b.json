@@ -284,12 +284,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-17 05:30:58 +0000",
+      "minecraft:taiga": "2024-12-17 05:37:14 +0000",
       "minecraft:sunflower_plains": "2024-12-17 05:18:56 +0000",
+      "minecraft:windswept_hills": "2024-12-17 05:49:13 +0000",
+      "minecraft:beach": "2024-12-17 05:42:53 +0000",
       "minecraft:lukewarm_ocean": "2024-12-17 05:29:30 +0000",
       "minecraft:river": "2024-12-17 05:30:43 +0000",
+      "minecraft:swamp": "2024-12-17 05:43:50 +0000",
+      "minecraft:forest": "2024-12-17 05:43:29 +0000",
       "minecraft:desert": "2024-12-17 05:27:00 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-17 05:31:34 +0000",
+      "minecraft:windswept_savanna": "2024-12-17 05:47:58 +0000",
       "minecraft:warm_ocean": "2024-12-17 05:30:06 +0000",
+      "minecraft:flower_forest": "2024-12-17 05:45:56 +0000",
       "minecraft:savanna": "2024-12-17 05:26:47 +0000",
       "minecraft:plains": "2024-12-17 05:21:00 +0000"
     },
@@ -319,13 +326,38 @@
     },
     "done": false
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-17 05:46:22 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-12-17 05:46:13 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_millennial_leaf": {
+    "criteria": {
+      "advancement_millennial_leaf_0": "2024-12-17 05:48:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "potato": "2024-12-17 05:27:37 +0000",
+      "bread": "2024-12-17 05:48:50 +0000",
       "beetroot": "2024-12-17 05:27:46 +0000",
       "carrot": "2024-12-17 05:27:14 +0000"
     },
     "done": false
+  },
+  "boliviamod:advancement_discovering_new_crops": {
+    "criteria": {
+      "advancement_discovering_new_crops_0": "2024-12-17 05:48:42 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
