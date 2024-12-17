@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2024-12-15 01:35:34 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2024-12-15 01:29:51 +0000"
@@ -71,18 +65,6 @@
     },
     "done": true
   },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2024-12-15 01:35:34 +0000"
-    },
-    "done": false
-  },
-  "mekanism:root": {
-    "criteria": {
-      "automatic": "2024-12-15 01:29:52 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-15 01:29:51 +0000"
@@ -101,21 +83,9 @@
     },
     "done": true
   },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-15 01:29:52 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-15 01:29:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-15 01:34:34 +0000"
     },
     "done": true
   },
@@ -143,29 +113,6 @@
     },
     "done": true
   },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2024-12-15 01:29:52 +0000"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2024-12-15 01:29:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2024-12-15 01:36:57 +0000",
-      "minecraft:sunflower_plains": "2024-12-15 01:29:55 +0000",
-      "minecraft:lukewarm_ocean": "2024-12-15 01:37:18 +0000",
-      "minecraft:river": "2024-12-15 01:33:09 +0000",
-      "minecraft:flower_forest": "2024-12-15 01:33:15 +0000",
-      "minecraft:plains": "2024-12-15 01:34:12 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2024-12-15 01:29:51 +0000"
@@ -175,12 +122,6 @@
   "boliviamod:advancement_discover_bolivia": {
     "criteria": {
       "advancement_discover_bolivia_0": "2024-12-15 01:29:51 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-15 01:29:52 +0000"
     },
     "done": true
   },
@@ -214,33 +155,9 @@
     },
     "done": true
   },
-  "evilcraft:evil_source": {
-    "criteria": {
-      "criteria_0": "2024-12-15 01:35:38 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2024-12-15 01:29:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "rotten_flesh": "2024-12-15 01:38:07 +0000"
-    },
-    "done": false
-  },
-  "tombstone:recipes/from_grave_key": {
-    "criteria": {
-      "has_ingredient": "2024-12-15 01:34:16 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-15 01:34:13 +0000"
     },
     "done": true
   },
@@ -250,39 +167,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_familiar_receptacle": "2024-12-15 01:35:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-15 01:38:07 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2024-12-15 01:34:16 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2024-12-15 01:29:52 +0000"
-    },
-    "done": true
-  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2024-12-15 01:29:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-15 01:34:34 +0000"
     },
     "done": true
   },
@@ -301,18 +188,6 @@
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2024-12-15 01:29:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2024-12-15 01:29:55 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-15 01:29:52 +0000"
     },
     "done": true
   },
@@ -364,9 +239,134 @@
     },
     "done": true
   },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-12-15 01:29:52 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-15 01:29:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-15 01:29:52 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-12-15 01:29:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-15 01:29:52 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-12-15 01:29:52 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-15 01:29:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-12-15 01:36:57 +0000",
+      "minecraft:sunflower_plains": "2024-12-15 01:29:55 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-15 01:37:18 +0000",
+      "minecraft:river": "2024-12-15 01:33:09 +0000",
+      "minecraft:flower_forest": "2024-12-15 01:33:15 +0000",
+      "minecraft:plains": "2024-12-15 01:34:12 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-15 01:29:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-15 01:34:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-15 01:34:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-15 01:34:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-15 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-15 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-15 01:35:34 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-15 01:35:34 +0000"
+    },
+    "done": false
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-12-15 01:35:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2024-12-15 01:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-15 01:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2024-12-15 01:38:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-15 01:38:07 +0000"
     },
     "done": true
   },

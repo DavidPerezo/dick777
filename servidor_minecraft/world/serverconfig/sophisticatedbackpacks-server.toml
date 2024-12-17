@@ -26,43 +26,43 @@
 	[server.leatherBackpack]
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
-		inventorySlotCount = 40
+		inventorySlotCount = 70
 		#Number of upgrade slots in the backpack
 		#Range: 0 ~ 10
-		upgradeSlotCount = 2
+		upgradeSlotCount = 4
 
 	#Copper Backpack Settings
 	[server.copperBackpack]
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
-		inventorySlotCount = 50
+		inventorySlotCount = 80
 		#Number of upgrade slots in the backpack
 		#Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 5
 
 	#Iron Backpack Settings
 	[server.ironBackpack]
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
-		inventorySlotCount = 60
+		inventorySlotCount = 90
 		#Number of upgrade slots in the backpack
 		#Range: 0 ~ 10
-		upgradeSlotCount = 4
+		upgradeSlotCount = 6
 
 	#Gold Backpack Settings
 	[server.goldBackpack]
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
-		inventorySlotCount = 81
+		inventorySlotCount = 110
 		#Number of upgrade slots in the backpack
 		#Range: 0 ~ 10
-		upgradeSlotCount = 5
+		upgradeSlotCount = 10
 
 	#Diamond Backpack Settings
 	[server.diamondBackpack]
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
-		inventorySlotCount = 120
+		inventorySlotCount = 130
 		#Number of upgrade slots in the backpack
 		#Range: 0 ~ 10
 		upgradeSlotCount = 10
