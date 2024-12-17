@@ -288,11 +288,13 @@
       "minecraft:sunflower_plains": "2024-12-17 05:18:56 +0000",
       "minecraft:windswept_hills": "2024-12-17 05:49:13 +0000",
       "minecraft:beach": "2024-12-17 05:42:53 +0000",
+      "minecraft:dark_forest": "2024-12-17 05:57:01 +0000",
       "minecraft:lukewarm_ocean": "2024-12-17 05:29:30 +0000",
       "minecraft:river": "2024-12-17 05:30:43 +0000",
       "minecraft:swamp": "2024-12-17 05:43:50 +0000",
       "minecraft:forest": "2024-12-17 05:43:29 +0000",
       "minecraft:desert": "2024-12-17 05:27:00 +0000",
+      "minecraft:ocean": "2024-12-17 05:57:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-17 05:31:34 +0000",
       "minecraft:windswept_savanna": "2024-12-17 05:47:58 +0000",
       "minecraft:warm_ocean": "2024-12-17 05:30:06 +0000",
@@ -374,6 +376,12 @@
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2024-12-17 05:22:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-17 05:50:39 +0000"
     },
     "done": true
   },

@@ -384,9 +384,9 @@
     },
     "done": true
   },
-  "boliviamod:advancement_it_all_looks_delicious": {
+  "tombstone:adventure/discreet_search": {
     "criteria": {
-      "advancement_it_all_looks_delicious_0": "2024-12-17 05:42:46 +0000"
+      "coded_trigger": "2024-12-17 05:22:08 +0000"
     },
     "done": true
   },
@@ -396,27 +396,15 @@
     },
     "done": false
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-17 05:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-17 05:23:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2024-12-17 05:47:12 +0000"
-    },
-    "done": false
-  },
-  "paraglider:root": {
-    "criteria": {
-      "crafting_table": "2024-12-17 05:27:48 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/bone": {
-    "criteria": {
-      "has_item": "2024-12-17 05:34:48 +0000"
     },
     "done": true
   },
@@ -426,9 +414,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "immersive_armors:recipes/misc/wooden": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-17 05:47:12 +0000"
+      "has_item": "2024-12-17 05:27:22 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-12-17 05:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-17 05:27:48 +0000"
     },
     "done": true
   },
@@ -438,33 +438,9 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/robe": {
-    "criteria": {
-      "has_item": "2024-12-17 05:42:14 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/slime": {
-    "criteria": {
-      "has_item": "2024-12-17 05:40:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-17 05:32:42 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/discreet_search": {
-    "criteria": {
-      "coded_trigger": "2024-12-17 05:22:08 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2024-12-17 05:22:13 +0000"
     },
     "done": true
   },
@@ -474,15 +450,27 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/wooden": {
+  "immersive_armors:recipes/misc/bone": {
     "criteria": {
-      "has_item": "2024-12-17 05:27:22 +0000"
+      "has_item": "2024-12-17 05:34:48 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_small_blimp": {
+  "immersive_armors:recipes/misc/slime": {
     "criteria": {
-      "location0": "2024-12-17 05:44:58 +0000"
+      "has_item": "2024-12-17 05:40:07 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-12-17 05:42:14 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_it_all_looks_delicious": {
+    "criteria": {
+      "advancement_it_all_looks_delicious_0": "2024-12-17 05:42:46 +0000"
     },
     "done": true
   },
@@ -492,15 +480,52 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-17 05:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-17 05:47:12 +0000",
+      "minecraft:magma_cube": "2024-12-17 05:51:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-17 05:47:12 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/steampunk": {
     "criteria": {
       "has_item": "2024-12-17 05:48:09 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "crafting_table": "2024-12-17 05:27:48 +0000"
+      "diamond": "2024-12-17 05:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-17 05:50:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-17 05:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-17 05:56:19 +0000"
     },
     "done": true
   },

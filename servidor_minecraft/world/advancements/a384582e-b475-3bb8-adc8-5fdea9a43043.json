@@ -278,6 +278,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-15 01:36:51 +0000",
+      "minecraft:frozen_river": "2024-12-17 05:56:07 +0000",
       "quark:glimmering_weald": "2024-12-16 23:07:33 +0000",
       "minecraft:windswept_hills": "2024-12-16 22:51:56 +0000",
       "minecraft:wooded_badlands": "2024-12-16 23:12:14 +0000",
@@ -297,6 +298,7 @@
       "minecraft:windswept_forest": "2024-12-16 22:52:07 +0000",
       "minecraft:ocean": "2024-12-13 02:49:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-17 05:39:09 +0000",
+      "minecraft:snowy_beach": "2024-12-17 05:56:29 +0000",
       "minecraft:windswept_savanna": "2024-11-26 03:46:43 +0000",
       "minecraft:warm_ocean": "2024-11-26 08:29:25 +0000",
       "minecraft:flower_forest": "2024-12-17 05:45:49 +0000",
@@ -549,6 +551,12 @@
     },
     "done": true
   },
+  "boliviamod:advancement_discovering_new_crops": {
+    "criteria": {
+      "advancement_discovering_new_crops_0": "2024-12-17 05:52:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-12-17 05:23:11 +0000"
@@ -576,6 +584,12 @@
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2024-12-17 05:22:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-17 05:50:27 +0000"
     },
     "done": true
   },
