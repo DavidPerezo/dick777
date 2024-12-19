@@ -1403,3 +1403,29 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Dec2024 00:28:30.636] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidPerezo (17)
 [19Dec2024 00:28:30.638] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidPerezo
 [19Dec2024 00:28:33.320] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: CarpenterBee['Green Carpenter Bee'/1054, l='ServerLevel[world]', x=-1625.27, y=78.69, z=-1226.58]
+[19Dec2024 00:28:35.310] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: MasonBee['Mason Bee'/1080, l='ServerLevel[world]', x=-1622.28, y=67.67, z=-1206.20]
+[19Dec2024 00:28:38.598] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Squid['Squid'/1180, l='ServerLevel[world]', x=-1693.32, y=53.08, z=-1505.81]
+[19Dec2024 00:28:38.599] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Dolphin['Dolphin'/1181, l='ServerLevel[world]', x=-1665.46, y=50.99, z=-1505.67]
+[19Dec2024 00:28:38.698] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Squid['Squid'/1190, l='ServerLevel[world]', x=-1733.06, y=55.68, z=-1504.07]
+[19Dec2024 00:28:39.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[19Dec2024 00:30:38.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[19Dec2024 00:31:00.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6418ms or 128 ticks behind
+[19Dec2024 00:31:26.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[19Dec2024 00:31:26.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
+[19Dec2024 00:33:51.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: isageta777[/127.207.143.55:45089] logged in with entity id 2479 at (-1769.5413724485695, 65.5625, -1840.4674425204837)
+[19Dec2024 00:33:51.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 joined the game
+[19Dec2024 00:33:51.636] [Server thread/INFO] [Jade/]: Syncing config to isageta777 (cac2bba5-1dea-366c-86fd-46ab127067db)
+[19Dec2024 00:33:53.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[19Dec2024 00:33:53.686] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of isageta777 (17)
+[19Dec2024 00:33:53.689] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to isageta777
+[19Dec2024 00:33:56.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Teleported DavidPerezo to isageta777]
+[19Dec2024 00:34:04.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has reached the goal [Cook In The Pot]
+[19Dec2024 00:35:13.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Primed TNT]
+[19Dec2024 00:35:14.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo blew up
+[19Dec2024 00:35:14.222] [Server thread/INFO] [tombstone/]: The player DavidPerezo has successfully been saved
+[19Dec2024 00:35:34.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Teleported DavidPerezo to isageta777]
+[19Dec2024 00:36:02.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has reached the goal [Here They Come]
+[19Dec2024 00:37:33.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Spider]
+[19Dec2024 00:37:38.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Spider]
+[19Dec2024 00:37:38.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Spider]
+[19Dec2024 00:37:39.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Spider]
