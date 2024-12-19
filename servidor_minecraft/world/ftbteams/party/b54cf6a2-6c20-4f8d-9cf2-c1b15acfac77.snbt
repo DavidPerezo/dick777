@@ -3,6 +3,7 @@
 	type: "party"
 	owner: "a384582e-b475-3bb8-adc8-5fdea9a43043"
 	ranks: {
+		84e8fd19-c748-3421-b60f-c10d1d51fd3b: "member"
 		a384582e-b475-3bb8-adc8-5fdea9a43043: "owner"
 	}
 	properties: {
@@ -24,6 +25,10 @@
 		"ftbchunks:claim_visibility": "public"
 		"ftbchunks:location_mode": "allies"
 	}
-	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1732592960314L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DavidPerezo\"}]}" }]
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1732592960314L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DavidPerezo\"}]}" }
+		{ from: "a384582e-b475-3bb8-adc8-5fdea9a43043", date: 1734570245210L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"PriscilaCuak\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1734570317014L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"PriscilaCuak\"}]}" }
+	]
 	extra: { }
 }

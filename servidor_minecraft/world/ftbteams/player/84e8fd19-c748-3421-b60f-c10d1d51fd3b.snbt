@@ -2,9 +2,7 @@
 	id: "84e8fd19-c748-3421-b60f-c10d1d51fd3b"
 	type: "player"
 	player_name: "PriscilaCuak"
-	ranks: {
-		84e8fd19-c748-3421-b60f-c10d1d51fd3b: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "PriscilaCuak"
 		"ftbteams:description": ""

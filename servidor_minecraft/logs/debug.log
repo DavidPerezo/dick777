@@ -18648,3 +18648,71 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Dec2024 00:58:22.366] [Server thread/DEBUG] [tombstone/]: A new grave of the player DavidPerezo was created at position [x:-1625, y:64, z:-1325, dim:minecraft:overworld]
 [19Dec2024 00:58:22.423] [Server thread/INFO] [tombstone/]: The player DavidPerezo has successfully been saved
 [19Dec2024 00:58:29.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Teleported DavidPerezo to isageta777]
+[19Dec2024 00:59:43.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 has reached the goal [Spectral Guardian]
+[19Dec2024 01:00:49.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo was slain by isageta777
+[19Dec2024 01:00:49.921] [Server thread/DEBUG] [tombstone/]: A new grave of the player DavidPerezo was created at position [x:-1632, y:64, z:-1340, dim:minecraft:overworld]
+[19Dec2024 01:00:50.003] [Server thread/INFO] [tombstone/]: The player DavidPerezo has successfully been saved
+[19Dec2024 01:00:53.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Teleported DavidPerezo to isageta777]
+[19Dec2024 01:01:58.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 has reached the goal [Pray to the Goddess]
+[19Dec2024 01:02:34.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 01:02:34.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 01:02:58.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has made the advancement [Monster Hunter]
+[19Dec2024 01:04:27.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PriscilaCuak> accept
+[19Dec2024 01:05:17.019] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from PriscilaCuak#84e8fd19 to CHIMICHURRIS#b54cf6a2
+[19Dec2024 01:05:17.020] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 84e8fd19-c748-3421-b60f-c10d1d51fd3b (PriscilaCuak#84e8fd19) to b54cf6a2-6c20-4f8d-9cf2-c1b15acfac77 (CHIMICHURRIS#b54cf6a2)
+[19Dec2024 01:05:17.020] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 84e8fd19-c748-3421-b60f-c10d1d51fd3b (PriscilaCuak#84e8fd19) due to claim limits
+[19Dec2024 01:05:17.021] [Server thread/INFO] [FTB Chunks/]: Team CHIMICHURRIS#b54cf6a2 had 4 claimed chunks, now has 4
+[19Dec2024 01:06:00.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[19Dec2024 01:06:00.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[19Dec2024 01:06:00.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[19Dec2024 01:06:12.252] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[19Dec2024 01:06:30.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19Dec2024 01:06:45.017] [Worker-Main-14/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1832, y=63, z=-904} Block{productivebees:oak_wood_nest}[axis=y,facing=east]
+[19Dec2024 01:06:50.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4447ms or 88 ticks behind
+[19Dec2024 01:06:52.038] [Worker-Main-13/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1979, y=65, z=-876} Block{productivebees:bumble_bee_nest}[facing=up]
+[19Dec2024 01:06:55.680] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-624}
+[19Dec2024 01:06:55.682] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-624}
+[19Dec2024 01:06:55.682] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-624}
+[19Dec2024 01:06:55.683] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-624}
+[19Dec2024 01:06:55.683] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-624}
+[19Dec2024 01:06:55.873] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[19Dec2024 01:06:55.875] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[19Dec2024 01:06:55.875] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[19Dec2024 01:06:55.876] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[19Dec2024 01:06:55.884] [Worker-Main-14/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1956, y=71, z=-855} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[19Dec2024 01:06:55.934] [Worker-Main-13/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1924, y=68, z=-854} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[19Dec2024 01:06:55.971] [Worker-Main-13/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1942, y=68, z=-857} Block{productivebees:sugar_cane_nest}[facing=north]
+[19Dec2024 01:06:56.500] [Worker-Main-14/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1825, y=66, z=-864} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[19Dec2024 01:06:57.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Teleported DavidPerezo to isageta777]
+[19Dec2024 01:07:07.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Wolf]
+[19Dec2024 01:07:08.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3649ms or 72 ticks behind
+[19Dec2024 01:07:15.187] [Worker-Main-13/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2051, y=70, z=-841} Block{productivebees:bumble_bee_nest}[facing=up]
+[19Dec2024 01:07:15.328] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-629}
+[19Dec2024 01:07:15.330] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-629}
+[19Dec2024 01:07:15.330] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-629}
+[19Dec2024 01:07:15.331] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-629}
+[19Dec2024 01:07:15.332] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-629}
+[19Dec2024 01:07:19.428] [Worker-Main-14/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1877, y=65, z=-823} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[19Dec2024 01:07:20.383] [Worker-Main-13/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-2045, y=71, z=-823} Block{productivebees:bumble_bee_nest}[facing=up]
+[19Dec2024 01:07:20.747] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-536}
+[19Dec2024 01:07:20.748] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-537}
+[19Dec2024 01:07:20.749] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=35, z=-535}
+[19Dec2024 01:07:20.749] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=27, z=-539}
+[19Dec2024 01:07:20.749] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=27, z=-533}
+[19Dec2024 01:07:20.750] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-537}
+[19Dec2024 01:07:20.750] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-536}
+[19Dec2024 01:07:20.751] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=34, z=-535}
+[19Dec2024 01:07:20.751] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-537}
+[19Dec2024 01:07:20.752] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-536}
+[19Dec2024 01:07:20.752] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-299, y=35, z=-535}
+[19Dec2024 01:07:27.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3409ms or 68 ticks behind
+[19Dec2024 01:07:30.372] [Worker-Main-15/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1953, y=70, z=-801} Block{productivebees:oak_wood_nest}[axis=y,facing=east]
+[19Dec2024 01:07:30.440] [Worker-Main-13/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1943, y=67, z=-801} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[19Dec2024 01:07:30.809] [Worker-Main-14/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1867, y=76, z=-801} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[19Dec2024 01:07:31.714] [Worker-Main-15/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=-1816, y=65, z=-814} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[19Dec2024 01:07:45.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3063ms or 61 ticks behind
+[19Dec2024 01:07:52.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 01:07:52.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 01:08:03.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2956ms or 59 ticks behind
+[19Dec2024 01:08:20.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[19Dec2024 01:08:48.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
