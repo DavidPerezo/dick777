@@ -568,5 +568,11 @@
     },
     "done": true
   },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2024-12-19 05:33:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

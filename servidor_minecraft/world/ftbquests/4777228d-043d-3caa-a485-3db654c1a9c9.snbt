@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "4777228d043d3caaa4853db654c1a9c9"
+	name: "FlaredOrph69#4777228d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

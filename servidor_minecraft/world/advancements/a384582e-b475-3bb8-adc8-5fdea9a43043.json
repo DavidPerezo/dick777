@@ -599,15 +599,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "boliviamod:advancement_cook_in_the_pot": {
     "criteria": {
-      "minecraft:zombie": "2024-12-19 01:02:58 +0000"
+      "advancement_cook_in_the_pot_0": "2024-12-19 00:34:04 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "immersive_armors:recipes/misc/slime": {
     "criteria": {
-      "minecraft:zombie": "2024-12-19 01:02:58 +0000"
+      "has_item": "2024-12-19 00:35:36 +0000"
     },
     "done": true
   },
@@ -635,21 +635,27 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/slime": {
-    "criteria": {
-      "has_item": "2024-12-19 00:35:36 +0000"
-    },
-    "done": true
-  },
-  "boliviamod:advancement_cook_in_the_pot": {
-    "criteria": {
-      "advancement_cook_in_the_pot_0": "2024-12-19 00:34:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-19 00:42:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-19 01:02:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-19 01:02:58 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2024-12-19 05:31:43 +0000"
     },
     "done": true
   },
