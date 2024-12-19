@@ -2,9 +2,7 @@
 	id: "cac2bba5-1dea-366c-86fd-46ab127067db"
 	type: "player"
 	player_name: "isageta777"
-	ranks: {
-		cac2bba5-1dea-366c-86fd-46ab127067db: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "isageta777"
 		"ftbteams:description": ""

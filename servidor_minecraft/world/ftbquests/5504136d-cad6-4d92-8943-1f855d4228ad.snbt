@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "5504136dcad64d9289431f855d4228ad"
+	name: "los_ponchos_rojos#5504136d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

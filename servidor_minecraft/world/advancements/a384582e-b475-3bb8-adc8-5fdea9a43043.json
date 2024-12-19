@@ -653,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-19 05:36:43 +0000"
+    },
+    "done": true
+  },
   "mekanism:steel_ingot": {
     "criteria": {
       "ingot_steel": "2024-12-19 05:31:43 +0000"

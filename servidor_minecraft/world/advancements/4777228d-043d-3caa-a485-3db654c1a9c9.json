@@ -47,9 +47,21 @@
     },
     "done": true
   },
+  "productivebees:husbandry/bee_cage/overworld_nest": {
+    "criteria": {
+      "get_item": "2024-12-19 05:36:59 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2024-12-19 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-19 05:40:25 +0000"
     },
     "done": true
   },
@@ -80,6 +92,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-19 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-12-19 05:40:10 +0000"
     },
     "done": true
   },
@@ -151,6 +169,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2024-12-19 05:41:59 +0000",
+      "minecraft:river": "2024-12-19 05:41:53 +0000",
+      "minecraft:swamp": "2024-12-19 05:42:13 +0000",
+      "minecraft:savanna": "2024-12-19 05:36:53 +0000",
       "minecraft:plains": "2024-12-19 05:28:43 +0000"
     },
     "done": false
@@ -170,6 +192,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-19 05:28:42 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-12-19 05:44:06 +0000"
     },
     "done": true
   },
@@ -269,6 +297,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-12-19 05:37:02 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_cyan": {
     "criteria": {
       "has_the_recipe": "2024-12-19 05:28:41 +0000"
@@ -302,6 +336,12 @@
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2024-12-19 05:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-19 05:40:10 +0000"
     },
     "done": true
   },
