@@ -1504,3 +1504,40 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19Dec2024 05:46:51.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlaredOrph69 has made the advancement [Monster Hunter]
 [19Dec2024 05:46:53.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 was slain by Jorogumo
 [19Dec2024 05:46:53.773] [Server thread/INFO] [tombstone/]: The player isageta777 has successfully been saved
+[19Dec2024 05:46:56.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set own game mode to Spectator Mode]
+[19Dec2024 05:47:02.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19Dec2024 05:47:24.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 has reached the goal [Chain Death]
+[19Dec2024 05:47:24.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 was slain by Jorogumo
+[19Dec2024 05:47:24.185] [Server thread/INFO] [tombstone/]: The player isageta777 has successfully been saved
+[19Dec2024 05:49:06.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set the time to 1000]
+[19Dec2024 05:49:16.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Dec2024 05:49:35.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3134ms or 62 ticks behind
+[19Dec2024 05:50:06.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set own game mode to Creative Mode]
+[19Dec2024 05:50:16.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[19Dec2024 05:50:24.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Teleported DavidPerezo to FlaredOrph69]
+[19Dec2024 05:50:29.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FlaredOrph69 was slain by Achale
+[19Dec2024 05:50:29.493] [Server thread/INFO] [tombstone/]: The player FlaredOrph69 has successfully been saved
+[19Dec2024 05:50:35.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Teleported FlaredOrph69 to DavidPerezo]
+[19Dec2024 05:50:35.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4393ms or 87 ticks behind
+[19Dec2024 05:50:59.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8059ms or 161 ticks behind
+[19Dec2024 05:51:14.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set own game mode to Survival Mode]
+[19Dec2024 05:51:22.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8596ms or 171 ticks behind
+[19Dec2024 05:51:40.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Teleported isageta777 to FlaredOrph69]
+[19Dec2024 05:51:45.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7677ms or 153 ticks behind
+[19Dec2024 05:52:35.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set own game mode to Spectator Mode]
+[19Dec2024 05:52:41.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19Dec2024 05:53:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Zombie]
+[19Dec2024 05:53:43.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Bat]
+[19Dec2024 05:53:51.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Allay]
+[19Dec2024 05:53:57.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Allay]
+[19Dec2024 05:54:40.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Zombie Horse]
+[19Dec2024 05:55:06.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Blaze]
+[19Dec2024 05:55:07.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Blaze]
+[19Dec2024 05:55:20.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Blaze]
+[19Dec2024 05:55:34.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Blaze]
+[19Dec2024 05:55:34.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Blaze]
+[19Dec2024 05:55:49.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 was fireballed by Blaze
+[19Dec2024 05:55:49.968] [Server thread/INFO] [tombstone/]: The player isageta777 has successfully been saved
+[19Dec2024 05:55:56.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Blaze]
+[19Dec2024 05:56:00.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 has made the advancement [Into Fire]
+[19Dec2024 05:56:35.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Elder Guardian]
