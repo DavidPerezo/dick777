@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-19 05:57:17 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2024-12-19 05:28:41 +0000"
@@ -65,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-19 05:59:51 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2024-12-19 05:28:42 +0000"
@@ -83,9 +95,19 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-19 05:57:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-19 05:55:49 +0000",
       "minecraft:skeleton": "2024-12-19 05:46:51 +0000",
+      "minecraft:spider": "2024-12-19 06:01:01 +0000",
+      "minecraft:witch": "2024-12-19 06:02:19 +0000",
+      "minecraft:wither_skeleton": "2024-12-19 05:58:12 +0000",
       "minecraft:zombie": "2024-12-19 05:53:34 +0000"
     },
     "done": false
@@ -233,6 +255,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 06:02:19 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-19 05:28:42 +0000"
@@ -269,10 +297,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-19 05:58:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-19 05:46:32 +0000",
-      "cookie": "2024-12-19 05:45:34 +0000"
+      "cookie": "2024-12-19 05:45:34 +0000",
+      "carrot": "2024-12-19 06:01:54 +0000"
     },
     "done": false
   },
@@ -285,6 +320,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-19 05:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-19 06:00:23 +0000"
     },
     "done": true
   },
