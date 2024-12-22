@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-22 20:34:17 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_purple": {
     "criteria": {
       "has_the_recipe": "2024-12-22 20:17:16 +0000"
@@ -53,9 +59,21 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-22 20:34:30 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2024-12-22 20:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-22 20:23:16 +0000"
     },
     "done": true
   },
@@ -64,6 +82,18 @@
       "has_the_recipe": "2024-12-22 20:17:16 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-22 20:34:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-22 20:37:25 +0000"
+    },
+    "done": false
   },
   "mekanism:root": {
     "criteria": {
@@ -74,6 +104,12 @@
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-22 20:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-22 20:25:25 +0000"
     },
     "done": true
   },
@@ -95,9 +131,21 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-12-22 20:37:26 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-22 20:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-22 20:33:00 +0000"
     },
     "done": true
   },
@@ -119,6 +167,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-22 20:49:13 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2024-12-22 20:17:16 +0000"
@@ -131,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-22 20:37:25 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2024-12-22 20:17:16 +0000"
@@ -139,6 +199,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-22 20:30:14 +0000",
+      "minecraft:beach": "2024-12-22 20:29:25 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-22 20:32:22 +0000",
+      "minecraft:river": "2024-12-22 20:30:09 +0000",
+      "minecraft:swamp": "2024-12-22 20:39:29 +0000",
+      "minecraft:forest": "2024-12-22 20:31:27 +0000",
+      "minecraft:desert": "2024-12-22 20:23:33 +0000",
+      "minecraft:windswept_forest": "2024-12-22 20:32:05 +0000",
+      "minecraft:windswept_savanna": "2024-12-22 20:33:44 +0000",
+      "minecraft:savanna": "2024-12-22 20:23:03 +0000",
       "minecraft:plains": "2024-12-22 20:17:18 +0000"
     },
     "done": false
@@ -197,9 +267,22 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "chicken": "2024-12-22 20:23:21 +0000",
+      "carrot": "2024-12-22 20:26:59 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-22 20:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-22 20:23:21 +0000"
     },
     "done": true
   },
@@ -215,9 +298,33 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-22 20:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-22 20:34:31 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-22 20:17:16 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-12-22 20:22:04 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-22 20:42:00 +0000"
     },
     "done": true
   },
@@ -290,6 +397,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2024-12-22 20:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-22 20:34:28 +0000"
     },
     "done": true
   },
