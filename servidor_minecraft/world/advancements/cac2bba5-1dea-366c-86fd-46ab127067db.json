@@ -378,6 +378,8 @@
     "criteria": {
       "cooked_mutton": "2024-12-19 06:00:37 +0000",
       "sweet_berries": "2024-12-19 00:43:18 +0000",
+      "cooked_beef": "2024-12-22 01:54:03 +0000",
+      "baked_potato": "2024-12-22 01:57:45 +0000",
       "bread": "2024-12-17 05:28:54 +0000",
       "rotten_flesh": "2024-12-15 01:38:07 +0000"
     },
@@ -498,6 +500,7 @@
       "minecraft:magma_cube": "2024-12-17 05:51:39 +0000",
       "minecraft:spider": "2024-12-19 00:37:42 +0000",
       "minecraft:wither_skeleton": "2024-12-19 05:58:18 +0000",
+      "minecraft:stray": "2024-12-22 01:54:50 +0000",
       "minecraft:zombie": "2024-12-19 06:00:34 +0000"
     },
     "done": false
@@ -607,6 +610,18 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-19 06:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-22 01:56:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-22 01:52:43 +0000"
     },
     "done": true
   },

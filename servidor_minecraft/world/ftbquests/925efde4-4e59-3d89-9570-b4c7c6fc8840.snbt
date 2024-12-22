@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "925efde44e593d899570b4c7c6fc8840"
+	name: "Zebastra#925efde4"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
