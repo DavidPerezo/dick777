@@ -649,9 +649,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-22 02:13:34 +0000",
+      "minecraft:spider": "2024-12-22 03:09:19 +0000",
+      "minecraft:creeper": "2024-12-22 03:17:49 +0000",
       "minecraft:husk": "2024-12-22 02:02:33 +0000",
       "minecraft:enderman": "2024-12-22 02:08:20 +0000",
       "minecraft:silverfish": "2024-12-22 02:26:58 +0000",
+      "minecraft:stray": "2024-12-22 03:09:13 +0000",
       "minecraft:zombie": "2024-12-19 01:02:58 +0000"
     },
     "done": false
@@ -710,6 +713,18 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-22 03:11:55 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-22 03:10:18 +0000"
+    },
+    "done": true
+  },
   "evilcraft:second_age": {
     "criteria": {
       "criteria_0": "2024-12-22 03:00:52 +0000"
@@ -719,6 +734,18 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2024-12-22 03:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-22 03:10:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-22 03:09:17 +0000"
     },
     "done": true
   },

@@ -354,7 +354,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-17 05:33:48 +0000",
-      "opened_chest": "2024-12-15 01:35:34 +0000"
+      "opened_chest": "2024-12-15 01:35:34 +0000",
+      "opened_cart": "2024-12-22 03:14:54 +0000"
     },
     "done": false
   },
@@ -620,9 +621,27 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-22 03:14:54 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-22 03:15:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-22 01:56:26 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-22 03:15:55 +0000"
     },
     "done": true
   },
