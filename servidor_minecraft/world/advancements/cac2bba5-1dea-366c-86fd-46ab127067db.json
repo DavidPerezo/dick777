@@ -626,6 +626,12 @@
     },
     "done": true
   },
+  "boliviamod:advancement_millennial_leaf": {
+    "criteria": {
+      "advancement_millennial_leaf_0": "2024-12-22 02:59:53 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2024-12-22 02:28:57 +0000"

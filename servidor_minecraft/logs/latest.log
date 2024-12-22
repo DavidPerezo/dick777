@@ -1642,3 +1642,27 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [22Dec2024 02:59:53.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 has reached the goal [Millennial Leaf]
 [22Dec2024 03:00:02.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Gave 44 [Sand] to DavidPerezo]
 [22Dec2024 03:00:52.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has made the advancement [Second Age]
+[22Dec2024 03:02:00.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set own game mode to Creative Mode]
+[22Dec2024 03:02:38.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set own game mode to Survival Mode]
+[22Dec2024 03:03:59.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 was shot by Skeleton
+[22Dec2024 03:03:59.736] [Server thread/INFO] [tombstone/]: The player isageta777 has successfully been saved
+[22Dec2024 03:04:33.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 was slain by Zombie
+[22Dec2024 03:04:33.148] [Server thread/INFO] [tombstone/]: The player isageta777 has successfully been saved
+[22Dec2024 03:04:44.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 was slain by Zombie
+[22Dec2024 03:04:44.626] [Server thread/INFO] [tombstone/]: The player isageta777 has successfully been saved
+[22Dec2024 03:04:55.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Killed 35 entities]
+[22Dec2024 03:04:58.990] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[22Dec2024 03:04:58.991] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[22Dec2024 03:05:18.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Killed 47 entities]
+[22Dec2024 03:05:26.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Killed 6 entities]
+[22Dec2024 03:05:32.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Killed 8 entities]
+[22Dec2024 03:05:49.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[22Dec2024 03:05:49.233] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[22Dec2024 03:05:49.233] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[22Dec2024 03:05:49.234] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[22Dec2024 03:06:01.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has made the advancement [Disme A Dozen]
+[22Dec2024 03:07:49.931] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[22Dec2024 03:08:11.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has made the advancement [Cover Me with Diamonds]
+[22Dec2024 03:09:17.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has made the advancement [Ashes 'n Bones]
+[22Dec2024 03:10:58.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has made the advancement [Diamonds!]
+[22Dec2024 03:11:55.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has made the advancement [Isn't It Iron Pick]
