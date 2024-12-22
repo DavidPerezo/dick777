@@ -1629,3 +1629,16 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [22Dec2024 02:51:27.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Primed TNT]
 [22Dec2024 02:51:27.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 blew up
 [22Dec2024 02:51:27.635] [Server thread/INFO] [tombstone/]: The player isageta777 has successfully been saved
+[22Dec2024 02:54:09.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Leash Knot]
+[22Dec2024 02:54:44.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Creeper]
+[22Dec2024 02:54:50.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Creeper]
+[22Dec2024 02:54:51.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Creeper]
+[22Dec2024 02:55:02.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Creeper]
+[22Dec2024 02:55:02.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Creeper]
+[22Dec2024 02:55:03.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Creeper]
+[22Dec2024 02:55:21.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Creeper]
+[22Dec2024 02:56:12.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set own game mode to Creative Mode]
+[22Dec2024 02:56:18.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set own game mode to Survival Mode]
+[22Dec2024 02:59:53.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 has reached the goal [Millennial Leaf]
+[22Dec2024 03:00:02.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Gave 44 [Sand] to DavidPerezo]
+[22Dec2024 03:00:52.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo has made the advancement [Second Age]
