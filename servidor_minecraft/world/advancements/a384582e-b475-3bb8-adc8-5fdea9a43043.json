@@ -649,6 +649,7 @@
       "minecraft:skeleton": "2024-12-22 02:13:34 +0000",
       "minecraft:husk": "2024-12-22 02:02:33 +0000",
       "minecraft:enderman": "2024-12-22 02:08:20 +0000",
+      "minecraft:silverfish": "2024-12-22 02:26:58 +0000",
       "minecraft:zombie": "2024-12-19 01:02:58 +0000"
     },
     "done": false
@@ -674,6 +675,30 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-22 02:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-22 02:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-22 02:25:35 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-12-22 02:29:47 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_mineral_wealth": {
+    "criteria": {
+      "advancement_mineral_wealth_0": "2024-12-22 02:28:05 +0000"
     },
     "done": true
   },

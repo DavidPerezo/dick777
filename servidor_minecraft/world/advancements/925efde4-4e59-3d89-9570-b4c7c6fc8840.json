@@ -206,6 +206,7 @@
       "minecraft:dark_forest": "2024-12-22 02:04:19 +0000",
       "minecraft:lukewarm_ocean": "2024-12-22 01:55:58 +0000",
       "minecraft:river": "2024-12-22 02:08:36 +0000",
+      "minecraft:swamp": "2024-12-22 02:26:52 +0000",
       "minecraft:forest": "2024-12-22 02:19:47 +0000",
       "minecraft:desert": "2024-12-22 02:03:22 +0000",
       "minecraft:warm_ocean": "2024-12-22 02:04:39 +0000",
@@ -229,6 +230,12 @@
   "boliviamod:advancement_discover_bolivia": {
     "criteria": {
       "advancement_discover_bolivia_0": "2024-12-22 01:50:31 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2024-12-22 02:22:01 +0000"
     },
     "done": true
   },
@@ -317,6 +324,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-22 02:20:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-22 01:53:17 +0000"
@@ -344,6 +357,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-22 02:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-22 02:20:59 +0000"
     },
     "done": true
   },
@@ -416,6 +435,12 @@
   "aethergearexpansion:recipe/misc/aetherite_upgrade_smithing_template": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:50:31 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:achievement_wealth_of_nature": {
+    "criteria": {
+      "achievement_wealth_of_nature_0": "2024-12-22 02:24:28 +0000"
     },
     "done": true
   },
