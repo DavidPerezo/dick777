@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "26bf47ff0f3d382c886a3778a181a5df"
+	name: "Renzi777#26bf47ff"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -707,6 +707,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_plague_asylum": {
+    "criteria": {
+      "location0": "2024-12-22 03:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2024-12-22 03:08:11 +0000"
@@ -737,6 +743,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-22 03:20:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-22 03:10:58 +0000"
@@ -746,6 +758,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-22 03:09:17 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2024-12-22 03:22:17 +0000"
     },
     "done": true
   },
