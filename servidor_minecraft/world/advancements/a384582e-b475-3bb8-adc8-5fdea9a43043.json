@@ -277,6 +277,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-22 02:15:27 +0000",
       "minecraft:taiga": "2024-12-15 01:36:51 +0000",
       "minecraft:frozen_river": "2024-12-17 05:56:07 +0000",
       "quark:glimmering_weald": "2024-12-16 23:07:33 +0000",
@@ -298,6 +299,7 @@
       "minecraft:deep_frozen_ocean": "2024-12-16 23:09:26 +0000",
       "minecraft:windswept_forest": "2024-12-16 22:52:07 +0000",
       "minecraft:ocean": "2024-12-13 02:49:06 +0000",
+      "minecraft:jungle": "2024-12-22 02:20:02 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-17 05:39:09 +0000",
       "minecraft:snowy_beach": "2024-12-17 05:56:29 +0000",
       "minecraft:windswept_savanna": "2024-11-26 03:46:43 +0000",
@@ -644,6 +646,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-22 02:13:34 +0000",
+      "minecraft:husk": "2024-12-22 02:02:33 +0000",
+      "minecraft:enderman": "2024-12-22 02:08:20 +0000",
       "minecraft:zombie": "2024-12-19 01:02:58 +0000"
     },
     "done": false
@@ -663,6 +668,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-19 05:36:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-22 02:09:55 +0000"
     },
     "done": true
   },

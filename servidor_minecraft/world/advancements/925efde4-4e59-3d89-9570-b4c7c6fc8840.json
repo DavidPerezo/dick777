@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "boliviamod:advancement_it_all_looks_delicious": {
+    "criteria": {
+      "advancement_it_all_looks_delicious_0": "2024-12-22 02:16:13 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:50:31 +0000"
@@ -95,6 +101,12 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-12-22 02:01:53 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:50:31 +0000"
@@ -113,9 +125,21 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-12-22 02:08:11 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:50:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-22 02:06:30 +0000"
     },
     "done": true
   },
@@ -137,6 +161,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-22 02:07:17 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:50:31 +0000"
@@ -149,15 +179,37 @@
     },
     "done": true
   },
+  "boliviamod:advancement_millennial_leaf": {
+    "criteria": {
+      "advancement_millennial_leaf_0": "2024-12-22 02:16:41 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2024-12-22 01:50:31 +0000"
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-22 02:10:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-22 02:15:24 +0000",
+      "minecraft:taiga": "2024-12-22 01:58:47 +0000",
+      "minecraft:birch_forest": "2024-12-22 02:04:17 +0000",
+      "minecraft:windswept_hills": "2024-12-22 02:19:55 +0000",
+      "minecraft:dark_forest": "2024-12-22 02:04:19 +0000",
       "minecraft:lukewarm_ocean": "2024-12-22 01:55:58 +0000",
+      "minecraft:river": "2024-12-22 02:08:36 +0000",
+      "minecraft:forest": "2024-12-22 02:19:47 +0000",
+      "minecraft:desert": "2024-12-22 02:03:22 +0000",
+      "minecraft:warm_ocean": "2024-12-22 02:04:39 +0000",
+      "minecraft:savanna": "2024-12-22 02:01:09 +0000",
       "minecraft:plains": "2024-12-22 01:50:33 +0000"
     },
     "done": false
@@ -216,17 +268,48 @@
     },
     "done": true
   },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-12-22 02:06:05 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:50:31 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-22 02:06:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "chicken": "2024-12-22 01:53:17 +0000"
+      "chicken": "2024-12-22 01:53:17 +0000",
+      "carrot": "2024-12-22 01:58:26 +0000"
     },
     "done": false
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-22 01:59:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-22 01:59:14 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_discovering_new_crops": {
+    "criteria": {
+      "advancement_discovering_new_crops_0": "2024-12-22 02:16:41 +0000"
+    },
+    "done": true
   },
   "comforts:sleeping_bag_blue": {
     "criteria": {
@@ -237,6 +320,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-22 01:53:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-22 01:59:18 +0000"
     },
     "done": true
   },
@@ -252,9 +341,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-22 02:06:30 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:50:31 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-12-22 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "boliviamod:advancement_cook_in_the_pot": {
+    "criteria": {
+      "advancement_cook_in_the_pot_0": "2024-12-22 02:10:54 +0000"
     },
     "done": true
   },
@@ -294,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-22 02:01:53 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:50:31 +0000"
@@ -327,6 +440,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2024-12-22 01:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-22 02:07:22 +0000"
     },
     "done": true
   },
