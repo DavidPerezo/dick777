@@ -1610,3 +1610,22 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [22Dec2024 02:30:53.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3659ms or 73 ticks behind
 [22Dec2024 02:31:11.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [22Dec2024 02:31:21.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_2 but it was marked as removed already
+[22Dec2024 02:31:55.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22Dec2024 02:33:18.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22Dec2024 02:33:36.406] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boliviamod:qati_qati_1 but it was marked as removed already
+[22Dec2024 02:33:50.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22Dec2024 02:34:02.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebastra lost connection: Disconnected
+[22Dec2024 02:34:02.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zebastra left the game
+[22Dec2024 02:34:02.290] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zebastra
+[22Dec2024 02:34:49.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 has made the advancement [Take Aim]
+[22Dec2024 02:36:06.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 has reached the goal [Bone Crusher]
+[22Dec2024 02:47:53.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidPerezo[/127.45.122.45:36567] logged in with entity id 23939 at (-1624.917017095292, 36.0, -1339.9829054841023)
+[22Dec2024 02:47:53.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidPerezo joined the game
+[22Dec2024 02:47:53.202] [Server thread/INFO] [Jade/]: Syncing config to DavidPerezo (a384582e-b475-3bb8-adc8-5fdea9a43043)
+[22Dec2024 02:47:54.216] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidPerezo (17)
+[22Dec2024 02:47:54.218] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidPerezo
+[22Dec2024 02:50:26.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set own game mode to Spectator Mode]
+[22Dec2024 02:50:28.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Teleported DavidPerezo to isageta777]
+[22Dec2024 02:51:27.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Summoned new Primed TNT]
+[22Dec2024 02:51:27.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: isageta777 blew up
+[22Dec2024 02:51:27.635] [Server thread/INFO] [tombstone/]: The player isageta777 has successfully been saved
