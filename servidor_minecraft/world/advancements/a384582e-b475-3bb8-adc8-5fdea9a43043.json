@@ -707,30 +707,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_plague_asylum": {
-    "criteria": {
-      "location0": "2024-12-22 03:28:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2024-12-22 03:08:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-12-22 03:11:55 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/warrior": {
-    "criteria": {
-      "has_item": "2024-12-22 03:10:18 +0000"
-    },
-    "done": true
-  },
   "evilcraft:second_age": {
     "criteria": {
       "criteria_0": "2024-12-22 03:00:52 +0000"
@@ -743,15 +719,9 @@
     },
     "done": true
   },
-  "lootr:25loot": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "loot_stat": "2024-12-22 03:20:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2024-12-22 03:10:58 +0000"
+      "diamond_leggings": "2024-12-22 03:08:11 +0000"
     },
     "done": true
   },
@@ -761,9 +731,39 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-22 03:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-22 03:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-22 03:11:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-22 03:20:15 +0000"
+    },
+    "done": true
+  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2024-12-22 03:22:17 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_plague_asylum": {
+    "criteria": {
+      "location0": "2024-12-22 03:28:18 +0000"
     },
     "done": true
   },
