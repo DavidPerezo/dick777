@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "2e760f3035f13f7c9a7fe2792f0b7d5e"
+	name: "pablocesar#2e760f30"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

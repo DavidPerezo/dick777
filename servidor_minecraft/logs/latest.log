@@ -1457,3 +1457,12 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [24May2025 06:54:26.991] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DavidPerezo (17)
 [24May2025 06:54:26.994] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DavidPerezo
 [24May2025 06:54:27.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+[24May2025 07:03:42.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablocesar[/127.120.86.234:49435] logged in with entity id 2541 at (-1817.5, 79.0, -1315.5)
+[24May2025 07:03:42.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablocesar joined the game
+[24May2025 07:03:42.228] [Server thread/INFO] [Jade/]: Syncing config to pablocesar (2e760f30-35f1-3f7c-9a7f-e2792f0b7d5e)
+[24May2025 07:03:42.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablocesar has made the advancement [Discover Bolivia]
+[24May2025 07:03:42.574] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablocesar (17)
+[24May2025 07:03:42.575] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablocesar
+[24May2025 07:08:31.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidPerezo: Set the time to 1000]
+[24May2025 07:10:21.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablocesar has made the advancement [Diamonds!]
+[24May2025 07:10:35.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablocesar has made the advancement [Acquire Hardware]
