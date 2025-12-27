@@ -1,0 +1,950 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "capitulo_3_dimensiones"
+	group: "3C5CBFBE1E8BA558"
+	icon: "minecraft:obsidian"
+	id: "3333333333333333"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Construye el portal y sobrevive al primer contacto con el infierno."]
+			id: "3000000000000001"
+			rewards: [
+				{
+					count: 16
+					id: "3000000000000002"
+					item: "minecraft:obsidian"
+					type: "item"
+				}
+				{
+					id: "3000000000000003"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: "minecraft:netherrack"
+				id: "3000000000000004"
+				title: "Entra al Nether"
+				type: "dimension"
+			}]
+			title: "Descenso Infernal"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3000000000000001"]
+			description: ["Encuentra una Fortaleza del Nether."]
+			id: "3000000000000005"
+			rewards: [
+				{
+					count: 16
+					id: "3000000000000006"
+					item: "minecraft:blaze_rod"
+					type: "item"
+				}
+				{
+					id: "3000000000000007"
+					type: "xp_levels"
+					xp_levels: 40
+				}
+			]
+			tasks: [{
+				icon: "minecraft:nether_bricks"
+				id: "3000000000000008"
+				title: "Localiza una Fortaleza"
+				type: "custom"
+			}]
+			title: "Bastion de Llamas"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3000000000000005"]
+			description: ["Elimina a los Blazes para obtener sus varas."]
+			id: "3000000000000009"
+			rewards: [
+				{
+					count: 16
+					id: "3000000000000010"
+					item: "minecraft:blaze_powder"
+					type: "item"
+				}
+				{
+					id: "3000000000000011"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+			]
+			tasks: [{
+				entity: "minecraft:blaze"
+				id: "3000000000000012"
+				type: "kill"
+				value: 15L
+			}]
+			title: "Cazador de Llamas"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3000000000000009"]
+			description: ["Recolecta verrugas del Nether para tu alquimia."]
+			id: "3000000000000013"
+			rewards: [
+				{
+					count: 32
+					id: "3000000000000014"
+					item: "minecraft:nether_wart"
+					type: "item"
+				}
+				{
+					id: "3000000000000015"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "3000000000000016"
+				item: "minecraft:nether_wart"
+				type: "item"
+			}]
+			title: "Cosecha Prohibida"
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3000000000000001"]
+			description: ["Busca escombros ancestrales en las profundidades."]
+			id: "3000000000000017"
+			rewards: [
+				{
+					count: 4
+					id: "3000000000000018"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+				{
+					id: "3000000000000019"
+					type: "xp_levels"
+					xp_levels: 60
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "3000000000000020"
+				item: "minecraft:ancient_debris"
+				type: "item"
+			}]
+			title: "Mineria Extrema"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3000000000000017"]
+			description: ["Crea tu primer lingote de Netherite."]
+			id: "3000000000000021"
+			rewards: [
+				{
+					count: 2
+					id: "3000000000000022"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "3000000000000023"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			tasks: [{
+				id: "3000000000000024"
+				item: "minecraft:netherite_ingot"
+				type: "item"
+			}]
+			title: "Forja Superior"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3000000000000021"]
+			description: ["Mejora tu equipo al nivel maximo."]
+			id: "3000000000000025"
+			rewards: [{
+				id: "3000000000000026"
+				type: "xp_levels"
+				xp_levels: 200
+			}]
+			tasks: [{
+				id: "3000000000000027"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Coraza Imparable"
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3000000000000005"]
+			description: ["Derrota a los Wither Skeletons."]
+			id: "3000000000000028"
+			rewards: [
+				{
+					count: 3
+					id: "3000000000000029"
+					item: "minecraft:wither_skeleton_skull"
+					type: "item"
+				}
+				{
+					id: "3000000000000030"
+					type: "xp_levels"
+					xp_levels: 80
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "3000000000000031"
+				type: "kill"
+				value: 10L
+			}]
+			title: "Coleccionista de Craneos"
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3000000000000028"]
+			description: ["Invoca al terror de tres cabezas."]
+			id: "3000000000000032"
+			rewards: [
+				{
+					count: 2
+					id: "3000000000000033"
+					item: "minecraft:nether_star"
+					type: "item"
+				}
+				{
+					id: "3000000000000034"
+					type: "xp_levels"
+					xp_levels: 300
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither"
+				id: "3000000000000035"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Aniquilacion del Wither"
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3000000000000001"]
+			description: ["Comercia con Piglins."]
+			id: "3000000000000036"
+			rewards: [
+				{
+					count: 16
+					id: "3000000000000037"
+					item: "minecraft:ender_pearl"
+					type: "item"
+				}
+				{
+					id: "3000000000000038"
+					type: "xp_levels"
+					xp_levels: 40
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "3000000000000039"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			title: "Economia de Oro"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3000000000000036"]
+			description: ["Encuentra un Bastion de Piglins."]
+			id: "3000000000000040"
+			rewards: [
+				{
+					count: 5
+					id: "3000000000000041"
+					item: "minecraft:gilded_blackstone"
+					type: "item"
+				}
+				{
+					id: "3000000000000042"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+			]
+			tasks: [{
+				icon: "minecraft:gilded_blackstone"
+				id: "3000000000000043"
+				title: "Bastion Piglin"
+				type: "custom"
+			}]
+			title: "Tesoro de los Puercos"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3000000000000040"]
+			description: ["Derrota a un Piglin Brute."]
+			id: "3000000000000044"
+			rewards: [
+				{
+					count: 5
+					id: "3000000000000045"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					id: "3000000000000046"
+					type: "xp_levels"
+					xp_levels: 70
+				}
+			]
+			tasks: [{
+				entity: "minecraft:piglin_brute"
+				id: "3000000000000047"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Duelo de Fuerza"
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			description: ["Crea el portal de agua y brilla en las nubes."]
+			id: "3000000000000048"
+			rewards: [
+				{
+					id: "3000000000000049"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					id: "3000000000000050"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+			]
+			tasks: [{
+				icon: "minecraft:glowstone"
+				id: "3000000000000051"
+				title: "Llega al Aether"
+				type: "custom"
+			}]
+			title: "Ascension Celestial"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3000000000000048"]
+			description: ["Recolecta Ambrosia y recursos del cielo."]
+			id: "3000000000000052"
+			rewards: [
+				{
+					count: 32
+					id: "3000000000000053"
+					item: "minecraft:feather"
+					type: "item"
+				}
+				{
+					id: "3000000000000054"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "3000000000000055"
+				item: "minecraft:sugar"
+				type: "item"
+			}]
+			title: "Vuelo de Gracia"
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3000000000000052"]
+			description: ["Encuentra una Isla Flotante unica."]
+			id: "3000000000000056"
+			rewards: [
+				{
+					count: 16
+					id: "3000000000000057"
+					item: "minecraft:glowstone_dust"
+					type: "item"
+				}
+				{
+					id: "3000000000000058"
+					type: "xp_levels"
+					xp_levels: 40
+				}
+			]
+			tasks: [{
+				icon: "minecraft:sunflower"
+				id: "3000000000000059"
+				title: "Isla del Cielo"
+				type: "custom"
+			}]
+			title: "Explorador de Nubes"
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3000000000000056"]
+			description: ["Derrota a las Valkirias para ganar su respeto."]
+			id: "3000000000000060"
+			rewards: [
+				{
+					id: "3000000000000061"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3000000000000062"
+					type: "xp_levels"
+					xp_levels: 80
+				}
+			]
+			tasks: [{
+				entity: "minecraft:phantom"
+				id: "3000000000000063"
+				type: "kill"
+				value: 5L
+			}]
+			title: "Juicio de Valkirias"
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3000000000000048"]
+			description: ["Consigue oro refinado del Aether."]
+			id: "3000000000000064"
+			rewards: [
+				{
+					count: 5
+					id: "3000000000000065"
+					item: "minecraft:gold_block"
+					type: "item"
+				}
+				{
+					id: "3000000000000066"
+					type: "xp_levels"
+					xp_levels: 45
+				}
+			]
+			tasks: [{
+				count: 32L
+				id: "3000000000000067"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			title: "Oro Celestial"
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3000000000000064"]
+			description: ["Crea herramientas de oro que no se rompen tan facil."]
+			id: "3000000000000068"
+			rewards: [{
+				id: "3000000000000069"
+				type: "xp_levels"
+				xp_levels: 55
+			}]
+			tasks: [{
+				id: "3000000000000070"
+				item: {
+					Count: 1
+					id: "minecraft:golden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Pico del Sol"
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3000000000000048"]
+			description: ["Recolecta cristales de luz."]
+			id: "3000000000000071"
+			rewards: [
+				{
+					count: 64
+					id: "3000000000000072"
+					item: "minecraft:glowstone"
+					type: "item"
+				}
+				{
+					id: "3000000000000073"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "3000000000000074"
+				item: "minecraft:glowstone_dust"
+				type: "item"
+			}]
+			title: "Energia Solar"
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3000000000000071"]
+			description: ["Derrota a un Cockatrice."]
+			id: "3000000000000075"
+			rewards: [
+				{
+					count: 10
+					id: "3000000000000076"
+					item: "minecraft:chicken"
+					type: "item"
+				}
+				{
+					id: "3000000000000077"
+					type: "xp_levels"
+					xp_levels: 40
+				}
+			]
+			tasks: [{
+				entity: "minecraft:chicken"
+				id: "3000000000000078"
+				type: "kill"
+				value: 5L
+			}]
+			title: "Plumas Malditas"
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3000000000000075"]
+			description: ["Derrota al Slider en el laberinto."]
+			id: "3000000000000079"
+			rewards: [
+				{
+					id: "3000000000000080"
+					item: "minecraft:diamond_block"
+					type: "item"
+				}
+				{
+					id: "3000000000000081"
+					type: "xp_levels"
+					xp_levels: 150
+				}
+			]
+			tasks: [{
+				icon: "minecraft:iron_block"
+				id: "3000000000000082"
+				title: "Derrota al Slider"
+				type: "custom"
+			}]
+			title: "El Guardian de Piedra"
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3000000000000079"]
+			description: ["Consigue la capa de vuelo."]
+			id: "3000000000000083"
+			rewards: [{
+				id: "3000000000000084"
+				type: "xp_levels"
+				xp_levels: 100
+			}]
+			tasks: [{
+				id: "3000000000000085"
+				item: {
+					Count: 1
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Alas Reales"
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3000000000000083"]
+			description: ["Encuentra el templo del sol."]
+			id: "3000000000000086"
+			rewards: [{
+				id: "3000000000000087"
+				type: "xp_levels"
+				xp_levels: 200
+			}]
+			tasks: [{
+				icon: "minecraft:totem_of_undying"
+				id: "3000000000000088"
+				title: "Templo del Sol"
+				type: "custom"
+			}]
+			title: "Cerca de Dios"
+			x: -7.5d
+			y: -2.0d
+		}
+		{
+			description: ["Baja a las profundidades para encontrar las cuevas de Alex."]
+			id: "3000000000000089"
+			rewards: [
+				{
+					count: 16
+					id: "3000000000000090"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					id: "3000000000000091"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+			]
+			tasks: [{
+				icon: "minecraft:deepslate"
+				id: "3000000000000092"
+				title: "Baja al Abismo"
+				type: "custom"
+			}]
+			title: "Cuevas Desconocidas"
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3000000000000089"]
+			description: ["Encuentra las Cuevas Magneticas."]
+			id: "3000000000000093"
+			rewards: [
+				{
+					count: 10
+					id: "3000000000000094"
+					item: "minecraft:raw_iron"
+					type: "item"
+				}
+				{
+					id: "3000000000000095"
+					type: "xp_levels"
+					xp_levels: 40
+				}
+			]
+			tasks: [{
+				icon: "minecraft:lodestone"
+				id: "3000000000000096"
+				title: "Magnetismo"
+				type: "custom"
+			}]
+			title: "Norte Magnetico"
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3000000000000093"]
+			description: ["Consigue Azure Neodymium."]
+			id: "3000000000000097"
+			rewards: [
+				{
+					count: 10
+					id: "3000000000000098"
+					item: "minecraft:iron_block"
+					type: "item"
+				}
+				{
+					id: "3000000000000099"
+					type: "xp_levels"
+					xp_levels: 60
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "3000000000000100"
+				item: "minecraft:lapis_lazuli"
+				type: "item"
+			}]
+			title: "Poder Atractivo"
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3000000000000089"]
+			description: ["Encuentra las Cuevas Toxicas."]
+			id: "3000000000000101"
+			rewards: [
+				{
+					id: "3000000000000102"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					id: "3000000000000103"
+					type: "xp_levels"
+					xp_levels: 80
+				}
+			]
+			tasks: [{
+				icon: "minecraft:slime_block"
+				id: "3000000000000104"
+				title: "Toxicidad"
+				type: "custom"
+			}]
+			title: "Peligro Radiactivo"
+			x: -1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3000000000000101"]
+			description: ["Recolecta residuos toxicos."]
+			id: "3000000000000105"
+			rewards: [
+				{
+					count: 32
+					id: "3000000000000106"
+					item: "minecraft:slime_ball"
+					type: "item"
+				}
+				{
+					id: "3000000000000107"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "3000000000000108"
+				item: "minecraft:rotten_flesh"
+				type: "item"
+			}]
+			title: "Basura Nuclear"
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3000000000000089"]
+			description: ["Encuentra las Cuevas de Cristal."]
+			id: "3000000000000109"
+			rewards: [
+				{
+					count: 32
+					id: "3000000000000110"
+					item: "minecraft:amethyst_shard"
+					type: "item"
+				}
+				{
+					id: "3000000000000111"
+					type: "xp_levels"
+					xp_levels: 40
+				}
+			]
+			tasks: [{
+				icon: "minecraft:amethyst_cluster"
+				id: "3000000000000112"
+				title: "Cristales"
+				type: "custom"
+			}]
+			title: "Brillo Profundo"
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["3000000000000109"]
+			description: ["Extrae Galena."]
+			id: "3000000000000113"
+			rewards: [
+				{
+					count: 16
+					id: "3000000000000114"
+					item: "minecraft:copper_ingot"
+					type: "item"
+				}
+				{
+					id: "3000000000000115"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+			]
+			tasks: [{
+				count: 32L
+				id: "3000000000000116"
+				item: "minecraft:raw_copper"
+				type: "item"
+			}]
+			title: "Geologia Avanzada"
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["3000000000000089"]
+			description: ["Encuentra el Abismo Primordial."]
+			id: "3000000000000117"
+			rewards: [
+				{
+					count: 5
+					id: "3000000000000118"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "3000000000000119"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			tasks: [{
+				icon: "minecraft:bone"
+				id: "3000000000000120"
+				title: "Dinosaurios"
+				type: "custom"
+			}]
+			title: "Mundo Perdido"
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3000000000000117"]
+			description: ["Derrota a un Luperca."]
+			id: "3000000000000121"
+			rewards: [
+				{
+					id: "3000000000000122"
+					item: "minecraft:netherite_scrap"
+					type: "item"
+				}
+				{
+					id: "3000000000000123"
+					type: "xp_levels"
+					xp_levels: 120
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wolf"
+				id: "3000000000000124"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Depredador Alfa"
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3000000000000117"]
+			description: ["Encuentra el bioma de Forlorn."]
+			id: "3000000000000125"
+			rewards: [
+				{
+					count: 64
+					id: "3000000000000126"
+					item: "minecraft:soul_torch"
+					type: "item"
+				}
+				{
+					id: "3000000000000127"
+					type: "xp_levels"
+					xp_levels: 60
+				}
+			]
+			tasks: [{
+				icon: "minecraft:soul_lantern"
+				id: "3000000000000128"
+				title: "Oscuridad"
+				type: "custom"
+			}]
+			title: "Silencio Eterno"
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3000000000000125"]
+			description: ["Derrota a un Corrodent."]
+			id: "3000000000000129"
+			rewards: [
+				{
+					count: 10
+					id: "3000000000000130"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					id: "3000000000000131"
+					type: "xp_levels"
+					xp_levels: 80
+				}
+			]
+			tasks: [{
+				entity: "minecraft:silverfish"
+				id: "3000000000000132"
+				type: "kill"
+				value: 10L
+			}]
+			title: "Plaga Subterranea"
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"3000000000000032"
+				"3000000000000086"
+				"3000000000000121"
+			]
+			description: ["Has conquistado las tres dimensiones mas complejas. Tu poder es legendario."]
+			id: "3000000000000133"
+			rewards: [
+				{
+					count: 10
+					id: "3000000000000134"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "3000000000000135"
+					item: "minecraft:nether_star"
+					type: "item"
+				}
+				{
+					id: "3000000000000136"
+					type: "xp_levels"
+					xp_levels: 1000
+				}
+			]
+			shape: "spade"
+			size: 2.5d
+			tasks: [{
+				id: "3000000000000137"
+				title: "Maestro de Dimensiones"
+				type: "checkmark"
+			}]
+			title: "CONQUISTADOR SUPREMO"
+			x: 6.0d
+			y: 2.5d
+		}
+	]
+	title: "Capitulo 3: La Triada de Mundos"
+}

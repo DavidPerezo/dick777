@@ -1,0 +1,549 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	filename: "capitulo_2_magia"
+	group: "3C5CBFBE1E8BA558"
+	icon: "irons_spellbooks:legendary_spell_book"
+	id: "2222222222222222"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["La base de todo mago. Aqui gestionaras tus hechizos."]
+			id: "2000000000000001"
+			rewards: [
+				{
+					count: 32
+					id: "2000000000000002"
+					item: "irons_spellbooks:common_ink"
+					type: "item"
+				}
+				{
+					id: "2000000000000003"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "2000000000000004"
+				item: "irons_spellbooks:inscription_table"
+				type: "item"
+			}]
+			title: "El Pupitre del Mago"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2000000000000001"]
+			description: ["Tu primer recipiente de poder."]
+			id: "2000000000000005"
+			rewards: [
+				{
+					count: 64
+					id: "2000000000000006"
+					item: "minecraft:paper"
+					type: "item"
+				}
+				{
+					id: "2000000000000007"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+			]
+			tasks: [{
+				id: "2000000000000008"
+				item: "irons_spellbooks:iron_spell_book"
+				type: "item"
+			}]
+			title: "Grimorio de Hierro"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2000000000000005"]
+			description: ["Tinta basica para tus primeros pergaminos."]
+			id: "2000000000000009"
+			rewards: [
+				{
+					count: 64
+					id: "2000000000000010"
+					item: "irons_spellbooks:common_ink"
+					type: "item"
+				}
+				{
+					id: "2000000000000011"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+			]
+			tasks: [{
+				id: "2000000000000012"
+				item: "irons_spellbooks:common_ink"
+				type: "item"
+			}]
+			title: "Escritura Basica"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2000000000000009"]
+			description: ["Un paso mas en la alquimia de tintas."]
+			id: "2000000000000013"
+			rewards: [
+				{
+					count: 32
+					id: "2000000000000014"
+					item: "irons_spellbooks:uncommon_ink"
+					type: "item"
+				}
+				{
+					id: "2000000000000015"
+					type: "xp_levels"
+					xp_levels: 40
+				}
+			]
+			tasks: [{
+				id: "2000000000000016"
+				item: "irons_spellbooks:uncommon_ink"
+				type: "item"
+			}]
+			title: "Tinta Refinada"
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2000000000000013"]
+			description: ["Tinta de alta calidad para magos expertos."]
+			id: "2000000000000017"
+			rewards: [
+				{
+					count: 16
+					id: "2000000000000018"
+					item: "irons_spellbooks:rare_ink"
+					type: "item"
+				}
+				{
+					id: "2000000000000019"
+					type: "xp_levels"
+					xp_levels: 60
+				}
+			]
+			tasks: [{
+				id: "2000000000000020"
+				item: "irons_spellbooks:rare_ink"
+				type: "item"
+			}]
+			title: "Tinta Rara"
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2000000000000017"]
+			description: ["Consigue la poderosa Tinta Epica para hechizos avanzados."]
+			id: "2000000000000021"
+			rewards: [
+				{
+					count: 8
+					id: "2000000000000022"
+					item: "irons_spellbooks:epic_ink"
+					type: "item"
+				}
+				{
+					id: "2000000000000023"
+					type: "xp_levels"
+					xp_levels: 80
+				}
+			]
+			tasks: [{
+				id: "2000000000000024"
+				item: "irons_spellbooks:epic_ink"
+				type: "item"
+			}]
+			title: "Tinta Epica"
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2000000000000001"]
+			description: ["El caldero donde ocurre la magia alquimica."]
+			id: "2000000000000025"
+			rewards: [
+				{
+					count: 16
+					id: "2000000000000026"
+					item: "irons_spellbooks:arcane_ingot"
+					type: "item"
+				}
+				{
+					id: "2000000000000027"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+			]
+			tasks: [{
+				id: "2000000000000028"
+				item: "irons_spellbooks:alchemist_cauldron"
+				type: "item"
+			}]
+			title: "Caldero Alquimico"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2000000000000025"]
+			description: ["Tela especial para confeccionar tus vestiduras."]
+			id: "2000000000000029"
+			rewards: [
+				{
+					count: 32
+					id: "2000000000000030"
+					item: "irons_spellbooks:magic_cloth"
+					type: "item"
+				}
+				{
+					id: "2000000000000031"
+					type: "xp_levels"
+					xp_levels: 40
+				}
+			]
+			tasks: [{
+				id: "2000000000000032"
+				item: "irons_spellbooks:magic_cloth"
+				type: "item"
+			}]
+			title: "Sastre Magico"
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2000000000000029"]
+			description: ["Consigue la esencia arcana necesaria para imbuir armaduras."]
+			id: "2000000000000033"
+			rewards: [
+				{
+					count: 32
+					id: "2000000000000034"
+					item: "irons_spellbooks:arcane_essence"
+					type: "item"
+				}
+				{
+					id: "2000000000000035"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			tasks: [{
+				id: "2000000000000036"
+				item: "irons_spellbooks:arcane_essence"
+				title: "Forja de Armaduras"
+				type: "item"
+			}]
+			title: "Poder de Armadura"
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2000000000000001"]
+			description: ["Esencia pura de la magia."]
+			id: "2000000000000037"
+			rewards: [
+				{
+					count: 64
+					id: "2000000000000038"
+					item: "irons_spellbooks:arcane_essence"
+					type: "item"
+				}
+				{
+					id: "2000000000000039"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+			]
+			tasks: [{
+				id: "2000000000000040"
+				item: "irons_spellbooks:arcane_essence"
+				type: "item"
+			}]
+			title: "Esencia Arcana"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2000000000000037"]
+			description: ["Runas necesarias para hechizos avanzados."]
+			id: "2000000000000041"
+			rewards: [
+				{
+					count: 10
+					id: "2000000000000042"
+					item: "irons_spellbooks:arcane_rune"
+					type: "item"
+				}
+				{
+					id: "2000000000000043"
+					type: "xp_levels"
+					xp_levels: 60
+				}
+			]
+			tasks: [{
+				id: "2000000000000044"
+				item: "irons_spellbooks:arcane_rune"
+				type: "item"
+			}]
+			title: "Runas de Poder"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2000000000000041"]
+			description: ["Domina el elemento del fuego."]
+			id: "2000000000000045"
+			rewards: [
+				{
+					count: 16
+					id: "2000000000000046"
+					item: "minecraft:blaze_rod"
+					type: "item"
+				}
+				{
+					id: "2000000000000047"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+			]
+			tasks: [{
+				id: "2000000000000048"
+				item: "irons_spellbooks:fire_rune"
+				type: "item"
+			}]
+			title: "Runa Ignea"
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2000000000000001"]
+			description: ["Fabrica pergaminos en blanco para transcribir poder."]
+			id: "2000000000000049"
+			rewards: [
+				{
+					count: 32
+					id: "2000000000000050"
+					item: "minecraft:paper"
+					type: "item"
+				}
+				{
+					id: "2000000000000051"
+					type: "xp_levels"
+					xp_levels: 40
+				}
+			]
+			tasks: [{
+				id: "2000000000000052"
+				item: "minecraft:paper"
+				title: "Pergaminos Virgenes"
+				type: "item"
+			}]
+			title: "Maestro de Escritura"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2000000000000049"]
+			description: ["Utiliza amatistas para canalizar energia pura."]
+			id: "2000000000000053"
+			rewards: [
+				{
+					count: 32
+					id: "2000000000000054"
+					item: "minecraft:amethyst_shard"
+					type: "item"
+				}
+				{
+					id: "2000000000000055"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			tasks: [{
+				id: "2000000000000056"
+				item: "minecraft:amethyst_shard"
+				title: "Canalizacion Amatista"
+				type: "item"
+			}]
+			title: "Cristales de Mana"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2000000000000033"]
+			description: ["Fabrica accesorios magicos usando pepitas de oro."]
+			id: "2000000000000057"
+			rewards: [
+				{
+					count: 16
+					id: "2000000000000058"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+				{
+					id: "2000000000000059"
+					type: "xp_levels"
+					xp_levels: 60
+				}
+			]
+			tasks: [{
+				id: "2000000000000060"
+				item: "minecraft:gold_nugget"
+				title: "Joyeria Arcana"
+				type: "item"
+			}]
+			title: "Joyeria Magica"
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2000000000000057"]
+			description: ["Utiliza perlas de ender para mejorar tu alcance magico."]
+			id: "2000000000000061"
+			rewards: [
+				{
+					count: 16
+					id: "2000000000000062"
+					item: "minecraft:ender_pearl"
+					type: "item"
+				}
+				{
+					id: "2000000000000063"
+					type: "xp_levels"
+					xp_levels: 80
+				}
+			]
+			tasks: [{
+				id: "2000000000000064"
+				item: "minecraft:ender_pearl"
+				title: "Vision del Vacio"
+				type: "item"
+			}]
+			title: "Reliquia de Ender"
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2000000000000021"]
+			description: ["Consigue la Tinta Legendaria para los hechizos prohibidos."]
+			id: "2000000000000065"
+			rewards: [
+				{
+					count: 10
+					id: "2000000000000066"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "2000000000000067"
+					type: "xp_levels"
+					xp_levels: 150
+				}
+			]
+			tasks: [{
+				id: "2000000000000068"
+				item: "irons_spellbooks:legendary_ink"
+				type: "item"
+			}]
+			title: "Tinta de Leyenda"
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2000000000000065"]
+			description: ["Encuentra o crea un pergamino de poder inconmensurable."]
+			id: "2000000000000069"
+			rewards: [
+				{
+					id: "2000000000000070"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "2000000000000071"
+					type: "xp_levels"
+					xp_levels: 200
+				}
+			]
+			tasks: [{
+				id: "2000000000000072"
+				item: "minecraft:writable_book"
+				title: "Conocimiento Ancestral"
+				type: "item"
+			}]
+			title: "Grimorio Prohibido"
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2000000000000045"]
+			description: ["Utiliza fragmentos de amatista pura para potenciar tus hechizos elementales."]
+			id: "2000000000000073"
+			rewards: [
+				{
+					count: 64
+					id: "2000000000000074"
+					item: "minecraft:amethyst_shard"
+					type: "item"
+				}
+				{
+					id: "2000000000000075"
+					type: "xp_levels"
+					xp_levels: 70
+				}
+			]
+			tasks: [{
+				id: "2000000000000076"
+				item: "minecraft:amethyst_shard"
+				type: "item"
+			}]
+			title: "Resonancia Arcana"
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2000000000000069"
+				"2000000000000061"
+				"2000000000000073"
+			]
+			description: ["Has alcanzado el pinaculo de la sabiduria magica. Eres un Archimagio."]
+			id: "2000000000000077"
+			rewards: [
+				{
+					id: "2000000000000078"
+					item: "minecraft:nether_star"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "2000000000000079"
+					item: "minecraft:netherite_block"
+					type: "item"
+				}
+				{
+					id: "2000000000000080"
+					type: "xp_levels"
+					xp_levels: 500
+				}
+			]
+			shape: "spade"
+			size: 2.0d
+			tasks: [{
+				id: "2000000000000081"
+				title: "Maestria Total"
+				type: "checkmark"
+			}]
+			title: "Ascension Arcana"
+			x: 6.0d
+			y: 4.5d
+		}
+	]
+	title: "Capitulo 2: Magia Arcaica"
+}

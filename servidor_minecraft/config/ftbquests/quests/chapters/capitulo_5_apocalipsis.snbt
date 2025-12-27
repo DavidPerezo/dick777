@@ -1,0 +1,333 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	filename: "capitulo_5_apocalipsis"
+	group: "3C5CBFBE1E8BA558"
+	icon: "minecraft:dragon_head"
+	id: "5555555555555555"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Entra al End. Tu armadura de Netherite es el minimo para respirar aqui."]
+			id: "5000000000000001"
+			rewards: [{
+				id: "5000000000000002"
+				type: "xp_levels"
+				xp_levels: 100
+			}]
+			size: 1.5d
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: "minecraft:end_stone"
+				id: "5000000000000003"
+				title: "El Vacio Eterno"
+				type: "dimension"
+			}]
+			title: "La Ultima Frontera"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5000000000000001"]
+			description: ["Aniquila a la Dragon del End."]
+			id: "5000000000000004"
+			rewards: [
+				{
+					id: "5000000000000005"
+					item: "minecraft:dragon_egg"
+					type: "item"
+				}
+				{
+					id: "5000000000000006"
+					type: "xp_levels"
+					xp_levels: 500
+				}
+			]
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "5000000000000007"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Muerte de la Reina"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5000000000000004"]
+			description: ["Caza 50 Endermans."]
+			id: "5000000000000008"
+			rewards: [
+				{
+					count: 64
+					id: "5000000000000009"
+					item: "minecraft:ender_pearl"
+					type: "item"
+				}
+				{
+					id: "5000000000000010"
+					type: "xp_levels"
+					xp_levels: 150
+				}
+			]
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "5000000000000011"
+				type: "kill"
+				value: 50L
+			}]
+			title: "Limpieza del Vacio"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5000000000000004"]
+			description: ["Consigue las Elytras."]
+			id: "5000000000000012"
+			rewards: [{
+				id: "5000000000000013"
+				type: "xp_levels"
+				xp_levels: 200
+			}]
+			tasks: [{
+				id: "5000000000000014"
+				item: {
+					Count: 1
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Dominio del Aire"
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			description: ["Encuentra y derrota a la Ancient Remnant. Su fuerza es legendaria."]
+			id: "5000000000000015"
+			rewards: [
+				{
+					count: 5
+					id: "5000000000000016"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "5000000000000017"
+					type: "xp_levels"
+					xp_levels: 400
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				icon: "cataclysm:witherite_ingot"
+				id: "5000000000000018"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Reliquia del Desierto"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5000000000000015"]
+			description: ["Aniquila al Maledictus."]
+			id: "5000000000000019"
+			rewards: [
+				{
+					id: "5000000000000020"
+					item: "minecraft:nether_star"
+					type: "item"
+				}
+				{
+					id: "5000000000000021"
+					type: "xp_levels"
+					xp_levels: 600
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:maledictus"
+				icon: "cataclysm:void_core"
+				id: "5000000000000022"
+				type: "kill"
+				value: 1L
+			}]
+			title: "El Rey del Mal"
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5000000000000019"]
+			description: ["Fabrica la armadura monstruosa."]
+			id: "5000000000000023"
+			rewards: [
+				{
+					count: 5
+					id: "5000000000000024"
+					item: "minecraft:netherite_block"
+					type: "item"
+				}
+				{
+					id: "5000000000000025"
+					type: "xp_levels"
+					xp_levels: 500
+				}
+			]
+			tasks: [{
+				id: "5000000000000026"
+				item: "cataclysm:monstrous_horn"
+				type: "item"
+			}]
+			title: "Cuernos de Guerra"
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5000000000000015"]
+			description: ["Derrota a la Netherite Monstrosity."]
+			id: "5000000000000027"
+			rewards: [
+				{
+					count: 10
+					id: "5000000000000028"
+					item: "minecraft:netherite_block"
+					type: "item"
+				}
+				{
+					id: "5000000000000029"
+					type: "xp_levels"
+					xp_levels: 800
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				icon: "minecraft:ender_eye"
+				id: "5000000000000030"
+				type: "kill"
+				value: 1L
+			}]
+			title: "El Coloso"
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			description: ["Sobrevive a las Toxic Caves. La radiacion te matara en segundos."]
+			id: "5000000000000031"
+			rewards: [
+				{
+					count: 32
+					id: "5000000000000032"
+					item: "minecraft:enchanted_golden_apple"
+					type: "item"
+				}
+				{
+					id: "5000000000000033"
+					type: "xp_levels"
+					xp_levels: 200
+				}
+			]
+			tasks: [{
+				icon: "minecraft:slime_block"
+				id: "5000000000000034"
+				title: "Entra a la Radiacion"
+				type: "custom"
+			}]
+			title: "Infierno Radioactivo"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5000000000000031"]
+			description: ["Aniquila al Hullbreaker."]
+			id: "5000000000000035"
+			rewards: [
+				{
+					count: 10
+					id: "5000000000000036"
+					item: "minecraft:diamond_block"
+					type: "item"
+				}
+				{
+					id: "5000000000000037"
+					type: "xp_levels"
+					xp_levels: 400
+				}
+			]
+			tasks: [{
+				entity: "minecraft:elder_guardian"
+				id: "5000000000000038"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Pesadilla de los Mares"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["5000000000000035"]
+			description: ["Recolecta materiales de uranio."]
+			id: "5000000000000039"
+			rewards: [{
+				id: "5000000000000040"
+				type: "xp_levels"
+				xp_levels: 300
+			}]
+			tasks: [{
+				id: "5000000000000041"
+				item: "alexscaves:block_of_uranium"
+				title: "Uranio Puro"
+				type: "item"
+			}]
+			title: "Energia Nuclear"
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			dependencies: [
+				"5000000000000008"
+				"5000000000000023"
+				"5000000000000039"
+				"5000000000000027"
+			]
+			description: [
+				"Has exterminado todo rastro de vida hostil en este universo."
+				""
+				"Tu nombre sera recordado como el fin de todas las cosas."
+			]
+			id: "5000000000000050"
+			rewards: [
+				{
+					count: 64
+					id: "5000000000000051"
+					item: "minecraft:netherite_block"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "5000000000000052"
+					item: "minecraft:diamond_block"
+					type: "item"
+				}
+				{
+					id: "5000000000000053"
+					type: "xp_levels"
+					xp_levels: 5000
+				}
+			]
+			shape: "spade"
+			size: 3.5d
+			tasks: [{
+				id: "5000000000000054"
+				title: "DIOS DEL MUNDO"
+				type: "checkmark"
+			}]
+			title: "EL FINAL DE LA JORNADA"
+			x: 0.0d
+			y: 5.0d
+		}
+	]
+	title: "Capitulo 5: El Apocalipsis Final"
+}
