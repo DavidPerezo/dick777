@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "cac2bba51dea366c86fd46ab127067db"
+	name: "isageta777#cac2bba5"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		1000000000000005: 2
+	}
+	started: {
+		1000000000000001: 1766886679881L
+		0000000000000001: 1766886679881L
+		1111111111111111: 1766886679881L
+		1000000000000005: 1766886679881L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
