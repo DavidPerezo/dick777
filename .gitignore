@@ -1,0 +1,32 @@
+# Archivos de sistema y programación (Tus carpetas actuales)
+/tailscale-cs
+/work_area*
+composer.*
+/Python*
+*.output
+/Modgest
+/thanos
+/vendor
+/bkdir
+*.pyc
+*.msp
+*.msx
+*.py
+
+# BLOQUEO DE ARCHIVOS PESADOS DE MINECRAFT
+# No sube los mods (pesan demasiado)
+*.jar
+servidor_minecraft/mods/*.jar
+
+# No sube el mundo (GitHub no aguanta mapas grandes)
+servidor_minecraft/world/
+servidor_minecraft/world_nether/
+servidor_minecraft/world_the_end/
+
+# No sube archivos temporales o de basura
+servidor_minecraft/logs/
+servidor_minecraft/crash-reports/
+*.log
+
+# Librerías del servidor
+servidor_minecraft/libraries/

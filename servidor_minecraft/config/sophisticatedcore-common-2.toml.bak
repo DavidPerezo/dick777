@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedstorage:stack_upgrade_tier_3|true", "sophisticatedstorage:stack_upgrade_tier_4|true", "sophisticatedstorage:shulker_box|true", "sophisticatedstorage:limited_iron_barrel_2|true", "sophisticatedbackpacks:smoking_upgrade|true", "sophisticatedbackpacks:everlasting_upgrade|true", "sophisticatedbackpacks:compacting_upgrade|true"]
+
